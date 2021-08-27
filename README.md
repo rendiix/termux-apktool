@@ -9,7 +9,7 @@
 # termux-apktool-tools
 Apktool v2.5.0 
 ## Fully working apktool on termux without proot or root
-![](screenshoot/apktool.mp4)
+[![TERMUX APKTOOL](https://img.youtube.com/vi/sAREsUFv1BM/0.jpg)](https://www.youtube.com/watch?v=sAREsUFv1BM)
 #### Install:
 ``` console
 $ git clone https://github.com/rendiix/termux-apktool.git
