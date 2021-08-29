@@ -16,6 +16,15 @@ $ git clone https://github.com/rendiix/termux-apktool.git
 $ cd termux-apktool
 $ bash install.sh
 ```
+#### Oneline installation:
+``` console
+$ curl -s https://raw.githubusercontent.com/rendiix/termux-apktool/main/install.sh | Bash
+```
+
+#### If you are already subscribed to my PPA repo:
+``` console
+$ pkg install apktool
+```
 #### Join Discord or follow me on Twitter:
 
 [![Discord](https://img.shields.io/discord/404576842419273729.svg?label=join%20discord&logo=discord)](https://discord.gg/5PmKhrc)
