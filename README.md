@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/rendiix.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/rendiix?tab=followers)
 [![GitHub contributors](https://img.shields.io/github/contributors/rendiix/termux-apktool.svg)](https://github.com/rendiix/termux-apktool/graphs/contributors/)
 
-# termux-apktool-tools
+# termux-apktool
 Apktool v2.5.0 
 ## Fully working apktool on termux without proot or root
 [![TERMUX APKTOOL](screenshoot/apktool.jpg)](https://www.youtube.com/watch?v=sAREsUFv1BM)
