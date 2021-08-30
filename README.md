@@ -18,7 +18,7 @@ $ bash install.sh
 ```
 #### Oneline installation:
 ``` console
-$ curl -s https://raw.githubusercontent.com/rendiix/termux-apktool/main/install.sh | Bash
+$ curl -s https://raw.githubusercontent.com/rendiix/termux-apktool/main/install.sh | bash
 ```
 
 #### If you are already subscribed to my PPA repo:
